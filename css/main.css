@@ -1,0 +1,98 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	padding: 10px;
+	font-family: 'Noto Sans', sans-serif;
+	background-color: #fff;
+	text-align: center;
+	color: rgb(13, 5, 88);
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	align-items: center;
+}
+
+hr {
+	width: 20%;
+	box-align: center;
+	margin: 3% auto 3%;
+}
+
+.f-h1 {
+	font-size: 33px;
+	font-weight: bold;
+}
+
+.f-p1 {
+	font-size: 20px;
+}
+
+.f-p2 {
+	font-size: 12px;
+}
+
+.m-s {
+	margin-bottom: 10px;
+}
+
+.m-m {
+	margin-bottom: 30px;
+}
+
+.m-l {
+	margin-bottom: 10%;
+}
+
+.m-xl {
+	margin-bottom: 20%;
+}
+
+.m-xxl {
+	margin-bottom: 60%;
+}
+
+.m-hr {
+	margin-bottom: 3%;
+	margin-top: 3%;
+}
+
+.m-a1 {
+	margin-bottom: 2%;
+	margin-top: 3%;
+}
+
+.m-a2 {
+	margin-top: 3%;
+}
+
+.m-a3 {
+	margin-bottom: 2%;
+}
+
+.f-a {
+	font-size: 22px;
+	font-weight: bold;
+	text-decoration: none;
+	color: rgb(13, 5, 88);
+}
+
+.divflags {
+	margin: 0 auto;
+	width: 200px;
+	height: 30px;
+}
+
+.flagsbox {
+	box-align: center;
+}
+
+.fixed {
+	position: fixed;
+}
